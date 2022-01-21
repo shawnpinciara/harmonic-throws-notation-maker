@@ -1,7 +1,8 @@
 # [Harmonic Throws Notation online maker](https://shawnpinciara.tumblr.com/htnmaker)
 ## What's HTN?
 Online maker for the "harmonic throws notation", a juggling notation invented in France to write routines strictly on time.
-The notation tells the exact state of balls, body and relation between body balls, at any given time.
+The notation tells the exact state of balls, body and relation between body balls, at any given time. It is largely inspired by the standard music notation, which has a really similar way of writing events on time.
+You can learn more about htn [here](https://www.lexpedition.org/lancers-harmoniques).
 
 ## Why?
 This tool was created to facilitate the process of writing partitions only on paper.
