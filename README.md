@@ -5,8 +5,8 @@ The notation tells the exact state of balls, body and relation between body ball
 You can learn more about htn [here](https://www.lexpedition.org/lancers-harmoniques).
 
 ## Why?
-This tool was created to facilitate the process of writing partitions only on paper.
+This tool was created to facilitate the process of writing partitions (process that was done only with paper).
 The tool now support saving and uploading a partition (json based).
-The whole project is based among P5js, and it was purposely chosen to write the whole website as a SPA and to host it as a custom HTML on Tumblr.
+The whole project is based among P5js, and it was purposely chosen to write the whole website as a SPA and to host it as a custom HTML page on Tumblr.
 These restraints give the project the purpose of going beyond structural limits.
 
